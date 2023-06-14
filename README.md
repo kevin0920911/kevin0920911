@@ -1,20 +1,12 @@
-### Hi there 👋
-### This is HSU SHENG KAI profile
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kevin0920911@gmail.com)<br>
-Welcome to my Github page! 
+# Hi there 👋
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; NCYU Student
+- 🤔 &nbsp; CPE: 3/7
+- ✍️ &nbsp; I can't code it's so hard.
+
+
 #### :computer: Programming languages and tools: 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**kevin0920911/kevin0920911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C++ | Python | HTML+CSS+JS
